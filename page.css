@@ -55,7 +55,7 @@
 
 .eh {
     width: 52rem;
-    margin-left: 4rem;
+    margin-left: 13rem;
     margin-top: 2rem;
 }
 
@@ -171,7 +171,7 @@
     padding-left: 3rem;
 }
 
-.w {
+.wa {
     object-fit: cover;
     width: 14rem;
     height: 13rem;
@@ -321,7 +321,7 @@
     font-family: Arial, Helvetica, sans-serif;
     height: 2.5rem;
     width: 80rem;
-    top: 255rem;
+    top: 260rem;
     left: -0.5rem;
     display: flex;
     
